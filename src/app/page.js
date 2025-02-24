@@ -6,7 +6,7 @@ import ProjectGallery from "./components/ProjectGallery";
 import ClientLogos from "./components/ClientLogos";
 import EstimationSteps from "./components/EstimationSteps";
 import SolutionsSection from "./components/SolutionsSection";
-import Contact from "./components/contact";
+import Contact from "./components/Contact";
 import VideoSection from "./components/VideoSection";
 import Footer from "./components/Footer";
 import List from "./components/List";
